@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">麻花疼</string>
+    <string name="chat_title">与%1$s%2$s正在聊天中...</string>
+</resources>

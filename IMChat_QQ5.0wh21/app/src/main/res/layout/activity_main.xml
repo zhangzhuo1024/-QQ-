@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.itcast.im.draglayout.view.DragLayout
+    android:id="@+id/dragLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <include layout="@layout/menu_layout" android:id="@+id/menu_layout"/>
+    <include layout="@layout/main_layout" android:id="@+id/main_layout"/>
+</cn.itcast.im.draglayout.view.DragLayout>
